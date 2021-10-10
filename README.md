@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently practicing nodejs & spring boot 
-- 📫 How to reach me: imadharilla@gmail.com
+- 🌱 I’m currently practicing fullstack devlopping 
+- 📫 How to reach me: https://metraneabdelmounim.github.io/
 
 **Languages I have used**
 
